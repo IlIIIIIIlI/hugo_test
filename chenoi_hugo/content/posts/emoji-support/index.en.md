@@ -43,9 +43,9 @@ That is so funny! :joy:
 
 The following **cheat sheet** is a useful reference for emoji shorthand codes.
 
-## Smileys & Emotion
+# Smileys & Emotion
 
-### Face Smiling
+## Face Smiling
 
 | icon | code | icon | code |
 | :-: | - | :-: | - |
