@@ -8,7 +8,7 @@ theme = "LoveIt"
 
 # website title
 # 网站标题
-title = "LoveIt"
+title = "我的全新 Hugo 网站"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
@@ -21,7 +21,7 @@ languageCode = "en"
 languageName = "English"
 # whether to include Chinese/Japanese/Korean
 # 是否包括中日韩文字
-hasCJKLanguage = false
+hasCJKLanguage = true
 
 # default amount of posts in each pages
 # 默认每页列表显示的文章数目
@@ -165,7 +165,50 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license= '''<script>
+    function siteTime() {
+        var seconds = 1000;
+        var minutes = seconds * 60;
+        var hours = minutes * 60;
+        var days = hours * 24;
+        var years = days * 365;
+        var today = new Date();
+        var startYear = 2023;
+        var startMonth = 1;
+        var startDate = 5;
+        var startHour = 14;
+        var startMinute = 15;
+        var startSecond = 11;
+        var todayYear = today.getFullYear();
+        var todayMonth = today.getMonth() + 1;
+        var todayDate = today.getDate();
+        var todayHour = today.getHours();
+        var todayMinute = today.getMinutes();
+        var todaySecond = today.getSeconds();
+        var t1 = Date.UTC(startYear, startMonth, startDate, startHour, startMinute, startSecond);
+        var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+        var diff = t2 - t1;
+        var diffYears = Math.floor(diff / years);
+        var diffDays = Math.floor((diff / days) - diffYears * 365);
+        var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
+        var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) /
+            minutes);
+        var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours -
+            diffMinutes * minutes) / seconds);
+        if (startYear == todayYear) {
+            //document.getElementById("year").innerHTML = todayYear;
+            document.getElementById("sitetime").innerHTML = "已安全运行 " + diffDays + " 天 " + diffHours +
+                " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
+        } else {
+            //document.getElementById("year").innerHTML = startYear + " - " + todayYear;
+            document.getElementById("sitetime").innerHTML = "已安全运行 " + diffYears + " 年 " + diffDays +
+                " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
+        }
+    }
+    setInterval(siteTime, 1000);
+</script>
+<span id="sitetime">载入运行时间...</span>
+'''
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
@@ -504,8 +547,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        appId = "vwzvOuaUyG9MTW5OhwPbKGcX-MdYXbMMI"
+        appKey = "Ze0aEQwC8NuoBrc5w496B7pg"
         placeholder = ""
         avatar = "mp"
         meta= ""

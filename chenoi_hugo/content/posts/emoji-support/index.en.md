@@ -23,6 +23,12 @@ Emoji can be enabled in a Hugo project in a number of ways.
 
 <!--more-->
 
+
+
+
+
+
+
 The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates#inline-shortcodes).
 
 To enable emoji globally, set `enableEmoji` to `true` in your [site configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files.
@@ -42,6 +48,8 @@ Gone camping! :tent: Be back soon.
 That is so funny! :joy:
 
 The following **cheat sheet** is a useful reference for emoji shorthand codes.
+
+
 
 # Smileys & Emotion
 
@@ -1116,6 +1124,12 @@ The following **cheat sheet** is a useful reference for emoji shorthand codes.
 
 ### Geometric
 
+
+
+{{< youtube w7Ft2ymGmfc >}}
+
+
+
 | icon | code | icon | code |
 | :-: | - | :-: | - |
 | :red_circle: | `red_circle` | :large_blue_circle: | `large_blue_circle` |
@@ -1283,3 +1297,9 @@ The following **cheat sheet** is a useful reference for emoji shorthand codes.
 | :yemen: | `yemen` | :mayotte: | `mayotte` |
 | :south_africa: | `south_africa` | :zambia: | `zambia` |
 | :zimbabwe: | `zimbabwe` | | |
+
+{{< youtube w7Ft2ymGmfc >}}
+
+```markdown
+{{< bilibili 882566744 >}}
+```

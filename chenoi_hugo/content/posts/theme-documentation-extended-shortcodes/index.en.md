@@ -185,7 +185,7 @@ The `image` shortcode has the following named parameters:
 
 Example `image` input:
 
-```markdown
+```
 {{</* image src="/images/lighthouse.jpg" caption="Lighthouse (`image`)" src_s="/images/lighthouse-small.jpg" src_l="/images/lighthouse-large.jpg" */>}}
 ```
 
@@ -352,7 +352,7 @@ This is useful when you want to include some Markdown content to **avoid being r
 
 Example `raw` input:
 
-```markdown
+```code
 Inline Formula: {{</* raw */>}}\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{</* /raw */>}}
 
 Block Formula:
