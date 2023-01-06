@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "First_test"
+date: 2023-01-07T02:44:34+11:00
 draft: true
-lastmod: {{ .Date }}
+lastmod: 2023-01-07T02:44:34+11:00
 draft: false
 author: "Quechen YANG"
 authorLink: "chenoi.info"
 description: ""
 
-tags: ["shortcodes"]
-categories: ["documentation"]
+tags: ["RL"]
+categories: ["Markdown"]
 
 comments: true
 mermaid: true #是否开启mermaid
@@ -27,12 +27,16 @@ cover:
 lightgallery: true
 math:
   enable: true
-toc:
-  auto: true
-
----
 
 ---
 
 
+
+# our life in our hands!
+
+![image-20230107024540216](https://photosavercn.oss-cn-guangzhou.aliyuncs.com/img/202301070245237.png)
+
+```python
+code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code 
+```
 
