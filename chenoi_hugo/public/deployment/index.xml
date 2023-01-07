@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deployment on ChenoiLAB</title>
+    <link>https://tiny-fudge-ea3c88.netlify.app/deployment/</link>
+    <description>Recent content in Deployment on ChenoiLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yangquechen@gmail.com (Quechen YANG)</managingEditor>
+    <webMaster>yangquechen@gmail.com (Quechen YANG)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://tiny-fudge-ea3c88.netlify.app/deployment/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - Category - ChenoiLAB</title>
+        <link>https://tiny-fudge-ea3c88.netlify.app/categories/markdown/</link>
+        <description>Markdown - Category - ChenoiLAB</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yangquechen@gmail.com (Quechen YANG)</managingEditor>
+            <webMaster>yangquechen@gmail.com (Quechen YANG)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 07 Jan 2023 02:44:34 &#43;1100</lastBuildDate><atom:link href="https://tiny-fudge-ea3c88.netlify.app/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Basic Markdown Syntax</title>
+    <link>https://tiny-fudge-ea3c88.netlify.app/2019/12/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://tiny-fudge-ea3c88.netlify.app/2019/12/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+<item>
+    <title>Emoji Support</title>
+    <link>https://tiny-fudge-ea3c88.netlify.app/2019/10/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://tiny-fudge-ea3c88.netlify.app/2019/10/emoji-support/</guid>
+    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
+</item>
+<item>
+    <title>First_test</title>
+    <link>https://tiny-fudge-ea3c88.netlify.app/2023/01/first_test/</link>
+    <pubDate>Sat, 07 Jan 2023 02:44:34 &#43;1100</pubDate>
+    <author>Quechen YANG</author>
+    <guid>https://tiny-fudge-ea3c88.netlify.app/2023/01/first_test/</guid>
+    <description><![CDATA[our life in our hands! 1 code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code ]]></description>
+</item>
+</channel>
+</rss>

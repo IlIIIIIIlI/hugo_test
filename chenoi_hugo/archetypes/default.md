@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+subtitle: ""
 date: {{ .Date }}
 draft: true
 lastmod: {{ .Date }}
@@ -7,29 +8,26 @@ draft: false
 author: "Quechen YANG"
 authorLink: "chenoi.info"
 description: ""
+slug:
 
 tags: ["shortcodes"]
 categories: ["documentation"]
 
-comments: true
-mermaid: true #是否开启mermaid
-showToc: true # 显示目录
-TocOpen: true # 自动展开目录
-hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
-disableShare: true # 底部不显示分享栏
-showbreadcrumbs: true #顶部显示路径
-cover:
-    image: "" #图片路径例如：posts/tech/123/123.png
-    caption: "" #图片底部描述
-    alt: ""
-    relative: false
+resources:
+- name: "featured-image"
+  src: "featured-image.jpg"
 
+images: []
 lightgallery: true
 math:
   enable: true
+comment:
+  enable: true
+code:
+  copy: true
+  maxShownLines: 50
 toc:
   auto: true
-
 ---
 
 ---

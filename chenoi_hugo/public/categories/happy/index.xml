@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>happy - Category - ChenoiLAB</title>
+        <link>https://tiny-fudge-ea3c88.netlify.app/categories/happy/</link>
+        <description>happy - Category - ChenoiLAB</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yangquechen@gmail.com (Quechen YANG)</managingEditor>
+            <webMaster>yangquechen@gmail.com (Quechen YANG)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 07 Jan 2023 02:50:24 &#43;1100</lastBuildDate><atom:link href="https://tiny-fudge-ea3c88.netlify.app/categories/happy/" rel="self" type="application/rss+xml" /><item>
+    <title>Second_test</title>
+    <link>https://tiny-fudge-ea3c88.netlify.app/2023/01/second_test/</link>
+    <pubDate>Sat, 07 Jan 2023 02:50:24 &#43;1100</pubDate>
+    <author>Quechen YANG</author>
+    <guid>https://tiny-fudge-ea3c88.netlify.app/2023/01/second_test/</guid>
+    <description><![CDATA[Just install latest version of <i class="far fa-file-archive fa-fw" aria-hidden="true"></i>&nbsp;Hugo (&gt; 0.62.0) for your OS (Windows, Linux, macOS).
+Why not support earlier versions of Hugo?Since Markdown Render Hooks was introduced in the Hugo Christmas Edition, this theme only supports Hugo versions above 0.62.0.Hugo extended version is recommendedSince some features of this theme need to processes <i class="fab fa-sass fa-fw" aria-hidden="true"></i>&nbsp;SCSS to <i class="fab fa-css3 fa-fw" aria-hidden="true"></i>&nbsp;CSS, it is recommended to use Hugo extended version for better experience.]]></description>
+</item>
+</channel>
+</rss>
