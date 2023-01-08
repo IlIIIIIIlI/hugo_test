@@ -110,7 +110,7 @@
                     hreflang="en"
                     href="https://tiny-fudge-ea3c88.netlify.app/2020/03/theme-documentation-typeit-shortcode/"
                     /></url><url>
-            <loc>https://tiny-fudge-ea3c88.netlify.app/categories/</loc><lastmod>2023-01-07T02:50:24&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://tiny-fudge-ea3c88.netlify.app/categories/</loc><lastmod>2023-01-07T22:18:35&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://tiny-fudge-ea3c88.netlify.app/zh-cn/categories/"
@@ -119,7 +119,7 @@
                     hreflang="en"
                     href="https://tiny-fudge-ea3c88.netlify.app/categories/"
                     /></url><url>
-            <loc>https://tiny-fudge-ea3c88.netlify.app/</loc><lastmod>2023-01-07T02:50:24&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://tiny-fudge-ea3c88.netlify.app/</loc><lastmod>2023-01-07T22:18:35&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://tiny-fudge-ea3c88.netlify.app/zh-cn/"
@@ -128,8 +128,8 @@
                     hreflang="en"
                     href="https://tiny-fudge-ea3c88.netlify.app/"
                     /></url><url>
-            <loc>https://tiny-fudge-ea3c88.netlify.app/categories/happy/</loc><lastmod>2023-01-07T02:50:24&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://tiny-fudge-ea3c88.netlify.app/posts/</loc><lastmod>2023-01-07T02:50:24&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://tiny-fudge-ea3c88.netlify.app/categories/deployment/</loc><lastmod>2023-01-07T22:18:35&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://tiny-fudge-ea3c88.netlify.app/posts/</loc><lastmod>2023-01-07T22:18:35&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://tiny-fudge-ea3c88.netlify.app/zh-cn/posts/"
@@ -138,6 +138,18 @@
                     hreflang="en"
                     href="https://tiny-fudge-ea3c88.netlify.app/posts/"
                     /></url><url>
+            <loc>https://tiny-fudge-ea3c88.netlify.app/tags/rl/</loc><lastmod>2023-01-07T22:18:35&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://tiny-fudge-ea3c88.netlify.app/tags/</loc><lastmod>2023-01-07T22:18:35&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://tiny-fudge-ea3c88.netlify.app/zh-cn/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://tiny-fudge-ea3c88.netlify.app/tags/"
+                    /></url><url>
+            <loc>https://tiny-fudge-ea3c88.netlify.app/2023/01/test_html/</loc><lastmod>2023-01-07T22:18:35&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://tiny-fudge-ea3c88.netlify.app/categories/happy/</loc><lastmod>2023-01-07T02:50:24&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://tiny-fudge-ea3c88.netlify.app/2023/01/second_test/</loc><lastmod>2023-01-07T02:50:24&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://tiny-fudge-ea3c88.netlify.app/tags/shortcodes/</loc><lastmod>2023-01-07T02:50:24&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -147,15 +159,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://tiny-fudge-ea3c88.netlify.app/tags/shortcodes/"
-                    /></url><url>
-            <loc>https://tiny-fudge-ea3c88.netlify.app/tags/</loc><lastmod>2023-01-07T02:50:24&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://tiny-fudge-ea3c88.netlify.app/zh-cn/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://tiny-fudge-ea3c88.netlify.app/tags/"
                     /></url><url>
             <loc>https://tiny-fudge-ea3c88.netlify.app/2023/01/first_test/</loc><lastmod>2023-01-07T02:44:34&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://tiny-fudge-ea3c88.netlify.app/categories/markdown/</loc><lastmod>2023-01-07T02:44:34&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
@@ -167,7 +170,6 @@
                     hreflang="en"
                     href="https://tiny-fudge-ea3c88.netlify.app/categories/markdown/"
                     /></url><url>
-            <loc>https://tiny-fudge-ea3c88.netlify.app/tags/rl/</loc><lastmod>2023-01-07T02:44:34&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://tiny-fudge-ea3c88.netlify.app/tags/configuration/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"

@@ -1,8 +1,9 @@
 ---
 title: "Deployment"
 url: Deployment
-hiddenFromHomePage: true
 ---
+
+
 
 
 
@@ -29,9 +30,16 @@ hiddenFromHomePage: true
     <br/>
     <div id="myBoard" style="width: 400px;"></div>
 
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
     <script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
     <script src="https://cdn.rawgit.com/lhartikk/simple-chess-ai/master/lib/js/chess.js"></script>
-    <script src="script.js"></script>
+    <script src="https://raw.githubusercontent.com/IlIIIIIIlI/hugo_test/main/chenoi_hugo/content/deployment/script.js"></script>
   </body>
 </html>
+
+
+
+
+
+<title>Chess AI</title>
